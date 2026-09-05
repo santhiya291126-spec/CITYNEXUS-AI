@@ -1,7 +1,0 @@
-zone,lat,lon,rainfall_mm,water_level,elevation_risk,drainage_capacity,historical_floods,population_exposure,predicted_risk,flood_probability
-Zone A,11.25,78.12,145,82,91,34,9,92,HIGH,89
-Zone B,11.27,78.1,92,61,52,57,5,55,MEDIUM,7
-Zone C,11.23,78.15,54,42,35,73,3,72,LOW,0
-Zone D,11.29,78.18,31,28,18,88,1,31,LOW,0
-Zone E,11.21,78.08,121,69,78,41,8,84,HIGH,69
-Zone F,11.31,78.13,67,49,44,65,4,63,MEDIUM,1
