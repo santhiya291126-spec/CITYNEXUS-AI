@@ -7,7 +7,7 @@ from streamlit_folium import st_folium
 
 st.set_page_config(page_title="CITYNEXUS AI | Command Center", page_icon="🏙️", layout="wide")
 
-zones = pd.read_csv("data/city_zones.csv")
+zones = pd.read_csv("data/city_zones_ml.csv")
 complaints = pd.read_csv("data/complaints.csv")
 
 # ---------- Styling ----------
